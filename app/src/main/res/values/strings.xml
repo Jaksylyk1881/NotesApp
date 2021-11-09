@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="add_note_item">Добавить Заметку</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="hint_title">Напишите название</string>
+    <string name="hint_description">Напишите описание</string>
+    <string name="warning_fill_all_fields">Заполните все поля!</string>
+    <string-array name="days">
+        <item>Понидельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
